@@ -1,0 +1,13 @@
+.slide h1, .slide h2 { color: #0b3d91; }
+.slide h3 { color: #174a7e; }
+.two-col { display: flex; gap: 1.2rem; align-items: flex-start; }
+.two-col .col { flex: 1; min-width: 0; }
+.center { text-align: center; }
+.small { font-size: 0.82em; }
+.tiny { font-size: 0.70em; }
+img.logo { max-height: 110px; width: auto; }
+img.figure { max-height: 50vh; width: auto; }
+img.figwide { max-height: 38vh; width: auto; }
+pre { font-size: 0.72em; }
+table { font-size: 0.80em; }
+.highlight { background: #fff3cd; padding: 0.1em 0.35em; }
